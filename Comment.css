@@ -1,0 +1,17 @@
+#post-button {
+    background-color: rgb(118, 220, 233);
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 20px;
+border: none;
+cursor: pointer;
+
+
+}
+#comment {
+    margin-left: 20px;
+}
